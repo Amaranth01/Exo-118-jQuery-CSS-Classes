@@ -5,9 +5,6 @@ Consignes :
 - Créer le code jQuery approprié pour alterner entre ajouter et retirer la classe "important" sur l'élément <p>
 lorsqu'on click sur celui ci.
 
-
-
-
  Théorie :
 
  jQuery permet de supprimer, d'ajouter ou même de remplacer les classes des éléments html.
